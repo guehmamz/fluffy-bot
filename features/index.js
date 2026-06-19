@@ -1,7 +1,7 @@
 const CHANNEL_USERNAME = process.env.CHANNEL_USERNAME || 'Fluffy_Information';
 const OWNER_ID = process.env.OWNER_ID || '';
 const QRIS_IMAGE = process.env.QRIS_IMAGE || 'https://files.catbox.moe/g1o5a1.jpg';
-const BOT_USERNAME = process.env.BOT_USERNAME || 'FluffyBot';
+const BOT_USERNAME = process.env.BOT_USERNAME || 'FluffyMD_bot';
 
 // ============================================================
 // DATABASE MODELS
