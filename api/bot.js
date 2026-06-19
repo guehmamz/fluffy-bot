@@ -8,7 +8,7 @@ const app = express();
 // KONFIGURASI ENVIRONMENT
 // ============================================================
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
-const BOT_USERNAME = process.env.BOT_USERNAME || 'FluffyBot';
+const BOT_USERNAME = process.env.BOT_USERNAME || 'FluffyMD_bot';
 const VERCEL_URL = process.env.VERCEL_URL || 'https://fluffy-bot.vercel.app';
 
 // ============================================================
